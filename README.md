@@ -9,14 +9,6 @@ To run this analysis, you will need the following libraries installed:
 - pandas
 - matplotlib
 
-You can install these libraries using pip:
-
-```bash
-pip install pandas matplotlib
-```
-
-Make sure you have the 'Walmart_data.csv' file available in the specified location (`C:/Users/User/Desktop/portfolio/`). If your file is in a different location, update the file path accordingly.
-
 ## Jupyter Notebook
 
 Open the Jupyter Notebook 'Walmart_Data_Analysis.ipynb' to view the code and run the data analysis.
